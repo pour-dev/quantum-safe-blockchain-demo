@@ -1,0 +1,8 @@
+# Core dependencies
+numpy>=1.23
+
+# Optional quantum simulation backends
+qiskit>=1.0
+qiskit-aer>=0.14
+
+cirq>=1.2
